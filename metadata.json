@@ -1,0 +1,8 @@
+{
+  "name": "Remix Nhịp Ngày",
+  "description": "Ứng dụng di động sắp xếp công việc, hành động cụ thể theo thời gian và nhắc nhở thông minh khi đến giờ.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
